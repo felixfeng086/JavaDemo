@@ -17,7 +17,7 @@ public class FixedThreadPoolDemo {
             final int index = i;
             fixedThreadPool.execute(new Runnable() {
                 public void run() {
-                    System.out.println(index);
+                    System.out.println(index + " " + Thread.currentThread().getName());
                     try {
                         Thread.sleep(2000);
                     } catch (InterruptedException e) {
