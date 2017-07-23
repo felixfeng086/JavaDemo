@@ -17,6 +17,10 @@
 
     <modules>
         <module>concurreantdemo</module>
+        <module>annotationdemo</module>
+        <module>reflectdemo</module>
+        <module>genericdemo</module>
+        <module>coredemo</module>
     </modules>
     <dependencies>
         <dependency>

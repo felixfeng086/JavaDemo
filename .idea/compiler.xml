@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="annotationdemo" />
+        <module name="concurreantdemo" />
+        <module name="concurrentdemo" />
+        <module name="coredemo" />
+        <module name="genericdemo" />
+        <module name="reflectdemo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="annotationdemo" target="1.8" />
+      <module name="concurrentdemo" target="1.8" />
+      <module name="coredemo" target="1.8" />
+      <module name="genericdemo" target="1.8" />
+      <module name="JavaDemo" target="1.8" />
+      <module name="reflectdemo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
