@@ -4,10 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaDemo.iml" filepath="$PROJECT_DIR$/JavaDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/annotationdemo/annotationdemo.iml" filepath="$PROJECT_DIR$/annotationdemo/annotationdemo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/concurrentdemo/concurrentdemo.iml" filepath="$PROJECT_DIR$/concurrentdemo/concurrentdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/coredemo/coredemo.iml" filepath="$PROJECT_DIR$/coredemo/coredemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/genericdemo/genericdemo.iml" filepath="$PROJECT_DIR$/genericdemo/genericdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrentdemo/src/main/main.iml" filepath="$PROJECT_DIR$/concurrentdemo/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotationdemo/src/main/main1.iml" filepath="$PROJECT_DIR$/annotationdemo/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/genericdemo/src/main/main2.iml" filepath="$PROJECT_DIR$/genericdemo/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reflectdemo/src/main/main3.iml" filepath="$PROJECT_DIR$/reflectdemo/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coredemo/src/main/main4.iml" filepath="$PROJECT_DIR$/coredemo/src/main/main4.iml" />
       <module fileurl="file://$PROJECT_DIR$/reflectdemo/reflectdemo.iml" filepath="$PROJECT_DIR$/reflectdemo/reflectdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/annotationdemo/src/test/test.iml" filepath="$PROJECT_DIR$/annotationdemo/src/test/test.iml" />
     </modules>
   </component>
 </project>
